@@ -1,0 +1,9 @@
+*.sou
+*.db
+ipch/
+*.lastbuidstate
+Debug/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+OrderTask/Debug/
